@@ -1,4 +1,4 @@
-class NXCapsrv < Formula
+class Nxcapsrv < Formula
   desc "A Nintendo Switch album tool."
   homepage "https://github.com/x43x61x69/homebrew-nxcapsrv"
   url "https://github.com/x43x61x69/homebrew-nxcapsrv/raw/master/nxcapsrv-v0.0.1.tar.gz"
