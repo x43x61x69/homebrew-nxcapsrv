@@ -15,3 +15,9 @@ Install via Homebrew:
 ## Usage
 
 Use command `capsrv` to see usage information.
+
+## License
+
+Copyright (c) 2018 ZW Cai.
+
+*NINTENDO SWITCH is a trademark of Nintendo Co., Ltd.*
