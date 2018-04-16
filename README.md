@@ -8,7 +8,7 @@ Currently for non-exFAT SD cards only!
 
 ## Install
 
-Install via Homebrew:
+Install via [Homebrew](https://brew.sh/) tap:
 
 `brew install x43x61x69/homebrew-nxcapsrv/nxcapsrv`
 
@@ -22,6 +22,10 @@ Use command `capsrv` to see usage information.
 
 ## License
 
-Copyright (c) 2018 ZW Cai.
+Copyright (C) 2018 ZW Cai.
+
+This project uses libexif as Apple's ImageIO sucks.
+
+Special thanks to *ReSwitched* team.
 
 *NINTENDO SWITCH is a trademark of Nintendo Co., Ltd.*
