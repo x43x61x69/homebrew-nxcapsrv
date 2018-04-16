@@ -1,6 +1,6 @@
 # NXCapSrv
 
-A macOS tool for images convertion to Nintendo Switch readable photos.
+A macOS tool for images conversion to Nintendo Switch readable photos.
 
 Support JPG, PNG, PSD...etc., even PDF!
 
