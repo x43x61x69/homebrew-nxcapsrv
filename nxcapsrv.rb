@@ -5,6 +5,6 @@ class Nxcapsrv < Formula
   sha256 "c53117e93316265208b04b88d15f4ca2187ab27c29093d0f18bcc2ade3d54463"
 
   def install
-    prefix.install Dir["*"]
+    bin.install "bin/capsrv"
   end
 end
