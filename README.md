@@ -2,4 +2,4 @@
 
 A Nintendo Switch album tool.
 
-`brew install https://github.com/x43x61x69/homebrew-nxcapsrv/master/formula.rb`
+`brew install https://github.com/x43x61x69/homebrew-nxcapsrv/raw/master/formula.rb`
