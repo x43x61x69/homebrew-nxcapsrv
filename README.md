@@ -12,6 +12,10 @@ Install via Homebrew:
 
 `brew install x43x61x69/homebrew-nxcapsrv/nxcapsrv`
 
+To update:
+
+`brew upgrade`
+
 ## Usage
 
 Use command `capsrv` to see usage information.
