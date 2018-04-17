@@ -6,5 +6,6 @@ class Nxcapsrv < Formula
 
   def install
      bin.install Dir["*"]
+     bin.install_symlink "capsrv" => "nxcapsrv"
   end
 end
